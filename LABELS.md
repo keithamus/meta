@@ -37,6 +37,7 @@ These are labels used by all [WHATWG standards](https://spec.whatwg.org/):
 * [stage: 4](https://github.com/search?q=org%3Awhatwg+label%3A%22stage%3A+4%22+is%3Aopen): Standard
 * [topic: custom elements](https://github.com/search?q=org%3Awhatwg+label%3A%22topic%3A+custom+elements%22+is%3Aopen): Relates to custom elements (as defined in DOM and HTML)
 * [topic: shadow](https://github.com/search?q=org%3Awhatwg+label%3A%22topic%3A+shadow%22+is%3Aopen): Relates to shadow trees (as defined in DOM)
+* [invalid](https://github.com/search?q=org%3Awhatwg+label%3A%22invalid): Used to mark off-topic or spam issues or PRs
 
 The following [W3C horizontal labels](https://w3c.github.io/issue-metadata.html#horizontal-reviews) can also be used:
 
